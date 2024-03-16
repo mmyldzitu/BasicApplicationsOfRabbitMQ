@@ -1,0 +1,17 @@
+E:\ASPNETCOREAPPS\RabbitMQ\ReceiveLog\bin\Debug\net8.0\ReceiveLog.exe
+E:\ASPNETCOREAPPS\RabbitMQ\ReceiveLog\bin\Debug\net8.0\ReceiveLog.deps.json
+E:\ASPNETCOREAPPS\RabbitMQ\ReceiveLog\bin\Debug\net8.0\ReceiveLog.runtimeconfig.json
+E:\ASPNETCOREAPPS\RabbitMQ\ReceiveLog\bin\Debug\net8.0\ReceiveLog.dll
+E:\ASPNETCOREAPPS\RabbitMQ\ReceiveLog\bin\Debug\net8.0\ReceiveLog.pdb
+E:\ASPNETCOREAPPS\RabbitMQ\ReceiveLog\bin\Debug\net8.0\RabbitMQ.Client.dll
+E:\ASPNETCOREAPPS\RabbitMQ\ReceiveLog\obj\Debug\net8.0\ReceiveLog.csproj.AssemblyReference.cache
+E:\ASPNETCOREAPPS\RabbitMQ\ReceiveLog\obj\Debug\net8.0\ReceiveLog.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASPNETCOREAPPS\RabbitMQ\ReceiveLog\obj\Debug\net8.0\ReceiveLog.AssemblyInfoInputs.cache
+E:\ASPNETCOREAPPS\RabbitMQ\ReceiveLog\obj\Debug\net8.0\ReceiveLog.AssemblyInfo.cs
+E:\ASPNETCOREAPPS\RabbitMQ\ReceiveLog\obj\Debug\net8.0\ReceiveLog.csproj.CoreCompileInputs.cache
+E:\ASPNETCOREAPPS\RabbitMQ\ReceiveLog\obj\Debug\net8.0\ReceiveLog.csproj.Up2Date
+E:\ASPNETCOREAPPS\RabbitMQ\ReceiveLog\obj\Debug\net8.0\ReceiveLog.dll
+E:\ASPNETCOREAPPS\RabbitMQ\ReceiveLog\obj\Debug\net8.0\refint\ReceiveLog.dll
+E:\ASPNETCOREAPPS\RabbitMQ\ReceiveLog\obj\Debug\net8.0\ReceiveLog.pdb
+E:\ASPNETCOREAPPS\RabbitMQ\ReceiveLog\obj\Debug\net8.0\ReceiveLog.genruntimeconfig.cache
+E:\ASPNETCOREAPPS\RabbitMQ\ReceiveLog\obj\Debug\net8.0\ref\ReceiveLog.dll

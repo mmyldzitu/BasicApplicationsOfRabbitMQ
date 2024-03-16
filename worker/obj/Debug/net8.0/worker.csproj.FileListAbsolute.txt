@@ -1,0 +1,17 @@
+E:\ASPNETCOREAPPS\RabbitMQ\worker\bin\Debug\net8.0\worker.exe
+E:\ASPNETCOREAPPS\RabbitMQ\worker\bin\Debug\net8.0\worker.deps.json
+E:\ASPNETCOREAPPS\RabbitMQ\worker\bin\Debug\net8.0\worker.runtimeconfig.json
+E:\ASPNETCOREAPPS\RabbitMQ\worker\bin\Debug\net8.0\worker.dll
+E:\ASPNETCOREAPPS\RabbitMQ\worker\bin\Debug\net8.0\worker.pdb
+E:\ASPNETCOREAPPS\RabbitMQ\worker\bin\Debug\net8.0\RabbitMQ.Client.dll
+E:\ASPNETCOREAPPS\RabbitMQ\worker\obj\Debug\net8.0\worker.csproj.AssemblyReference.cache
+E:\ASPNETCOREAPPS\RabbitMQ\worker\obj\Debug\net8.0\worker.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASPNETCOREAPPS\RabbitMQ\worker\obj\Debug\net8.0\worker.AssemblyInfoInputs.cache
+E:\ASPNETCOREAPPS\RabbitMQ\worker\obj\Debug\net8.0\worker.AssemblyInfo.cs
+E:\ASPNETCOREAPPS\RabbitMQ\worker\obj\Debug\net8.0\worker.csproj.CoreCompileInputs.cache
+E:\ASPNETCOREAPPS\RabbitMQ\worker\obj\Debug\net8.0\worker.csproj.Up2Date
+E:\ASPNETCOREAPPS\RabbitMQ\worker\obj\Debug\net8.0\worker.dll
+E:\ASPNETCOREAPPS\RabbitMQ\worker\obj\Debug\net8.0\refint\worker.dll
+E:\ASPNETCOREAPPS\RabbitMQ\worker\obj\Debug\net8.0\worker.pdb
+E:\ASPNETCOREAPPS\RabbitMQ\worker\obj\Debug\net8.0\worker.genruntimeconfig.cache
+E:\ASPNETCOREAPPS\RabbitMQ\worker\obj\Debug\net8.0\ref\worker.dll

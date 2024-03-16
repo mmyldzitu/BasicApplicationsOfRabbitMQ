@@ -1,0 +1,17 @@
+E:\ASPNETCOREAPPS\RabbitMQ\newTask\bin\Debug\net8.0\newTask.exe
+E:\ASPNETCOREAPPS\RabbitMQ\newTask\bin\Debug\net8.0\newTask.deps.json
+E:\ASPNETCOREAPPS\RabbitMQ\newTask\bin\Debug\net8.0\newTask.runtimeconfig.json
+E:\ASPNETCOREAPPS\RabbitMQ\newTask\bin\Debug\net8.0\newTask.dll
+E:\ASPNETCOREAPPS\RabbitMQ\newTask\bin\Debug\net8.0\newTask.pdb
+E:\ASPNETCOREAPPS\RabbitMQ\newTask\bin\Debug\net8.0\RabbitMQ.Client.dll
+E:\ASPNETCOREAPPS\RabbitMQ\newTask\obj\Debug\net8.0\newTask.csproj.AssemblyReference.cache
+E:\ASPNETCOREAPPS\RabbitMQ\newTask\obj\Debug\net8.0\newTask.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASPNETCOREAPPS\RabbitMQ\newTask\obj\Debug\net8.0\newTask.AssemblyInfoInputs.cache
+E:\ASPNETCOREAPPS\RabbitMQ\newTask\obj\Debug\net8.0\newTask.AssemblyInfo.cs
+E:\ASPNETCOREAPPS\RabbitMQ\newTask\obj\Debug\net8.0\newTask.csproj.CoreCompileInputs.cache
+E:\ASPNETCOREAPPS\RabbitMQ\newTask\obj\Debug\net8.0\newTask.csproj.Up2Date
+E:\ASPNETCOREAPPS\RabbitMQ\newTask\obj\Debug\net8.0\newTask.dll
+E:\ASPNETCOREAPPS\RabbitMQ\newTask\obj\Debug\net8.0\refint\newTask.dll
+E:\ASPNETCOREAPPS\RabbitMQ\newTask\obj\Debug\net8.0\newTask.pdb
+E:\ASPNETCOREAPPS\RabbitMQ\newTask\obj\Debug\net8.0\newTask.genruntimeconfig.cache
+E:\ASPNETCOREAPPS\RabbitMQ\newTask\obj\Debug\net8.0\ref\newTask.dll

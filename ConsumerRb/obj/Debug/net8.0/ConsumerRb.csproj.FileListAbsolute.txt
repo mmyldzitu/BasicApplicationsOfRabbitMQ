@@ -1,0 +1,17 @@
+E:\ASPNETCOREAPPS\RabbitMQ\ConsumerRb\bin\Debug\net8.0\ConsumerRb.exe
+E:\ASPNETCOREAPPS\RabbitMQ\ConsumerRb\bin\Debug\net8.0\ConsumerRb.deps.json
+E:\ASPNETCOREAPPS\RabbitMQ\ConsumerRb\bin\Debug\net8.0\ConsumerRb.runtimeconfig.json
+E:\ASPNETCOREAPPS\RabbitMQ\ConsumerRb\bin\Debug\net8.0\ConsumerRb.dll
+E:\ASPNETCOREAPPS\RabbitMQ\ConsumerRb\bin\Debug\net8.0\ConsumerRb.pdb
+E:\ASPNETCOREAPPS\RabbitMQ\ConsumerRb\bin\Debug\net8.0\RabbitMQ.Client.dll
+E:\ASPNETCOREAPPS\RabbitMQ\ConsumerRb\obj\Debug\net8.0\ConsumerRb.csproj.AssemblyReference.cache
+E:\ASPNETCOREAPPS\RabbitMQ\ConsumerRb\obj\Debug\net8.0\ConsumerRb.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASPNETCOREAPPS\RabbitMQ\ConsumerRb\obj\Debug\net8.0\ConsumerRb.AssemblyInfoInputs.cache
+E:\ASPNETCOREAPPS\RabbitMQ\ConsumerRb\obj\Debug\net8.0\ConsumerRb.AssemblyInfo.cs
+E:\ASPNETCOREAPPS\RabbitMQ\ConsumerRb\obj\Debug\net8.0\ConsumerRb.csproj.CoreCompileInputs.cache
+E:\ASPNETCOREAPPS\RabbitMQ\ConsumerRb\obj\Debug\net8.0\ConsumerRb.csproj.Up2Date
+E:\ASPNETCOREAPPS\RabbitMQ\ConsumerRb\obj\Debug\net8.0\ConsumerRb.dll
+E:\ASPNETCOREAPPS\RabbitMQ\ConsumerRb\obj\Debug\net8.0\refint\ConsumerRb.dll
+E:\ASPNETCOREAPPS\RabbitMQ\ConsumerRb\obj\Debug\net8.0\ConsumerRb.pdb
+E:\ASPNETCOREAPPS\RabbitMQ\ConsumerRb\obj\Debug\net8.0\ConsumerRb.genruntimeconfig.cache
+E:\ASPNETCOREAPPS\RabbitMQ\ConsumerRb\obj\Debug\net8.0\ref\ConsumerRb.dll

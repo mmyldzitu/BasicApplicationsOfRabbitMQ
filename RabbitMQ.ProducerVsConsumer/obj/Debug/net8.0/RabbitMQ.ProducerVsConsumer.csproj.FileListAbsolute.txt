@@ -1,0 +1,17 @@
+E:\ASPNETCOREAPPS\RabbitMQ\RabbitMQ.ProducerVsConsumer\bin\Debug\net8.0\RabbitMQ.ProducerVsConsumer.exe
+E:\ASPNETCOREAPPS\RabbitMQ\RabbitMQ.ProducerVsConsumer\bin\Debug\net8.0\RabbitMQ.ProducerVsConsumer.deps.json
+E:\ASPNETCOREAPPS\RabbitMQ\RabbitMQ.ProducerVsConsumer\bin\Debug\net8.0\RabbitMQ.ProducerVsConsumer.runtimeconfig.json
+E:\ASPNETCOREAPPS\RabbitMQ\RabbitMQ.ProducerVsConsumer\bin\Debug\net8.0\RabbitMQ.ProducerVsConsumer.dll
+E:\ASPNETCOREAPPS\RabbitMQ\RabbitMQ.ProducerVsConsumer\bin\Debug\net8.0\RabbitMQ.ProducerVsConsumer.pdb
+E:\ASPNETCOREAPPS\RabbitMQ\RabbitMQ.ProducerVsConsumer\bin\Debug\net8.0\RabbitMQ.Client.dll
+E:\ASPNETCOREAPPS\RabbitMQ\RabbitMQ.ProducerVsConsumer\obj\Debug\net8.0\RabbitMQ.ProducerVsConsumer.csproj.AssemblyReference.cache
+E:\ASPNETCOREAPPS\RabbitMQ\RabbitMQ.ProducerVsConsumer\obj\Debug\net8.0\RabbitMQ.ProducerVsConsumer.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASPNETCOREAPPS\RabbitMQ\RabbitMQ.ProducerVsConsumer\obj\Debug\net8.0\RabbitMQ.ProducerVsConsumer.AssemblyInfoInputs.cache
+E:\ASPNETCOREAPPS\RabbitMQ\RabbitMQ.ProducerVsConsumer\obj\Debug\net8.0\RabbitMQ.ProducerVsConsumer.AssemblyInfo.cs
+E:\ASPNETCOREAPPS\RabbitMQ\RabbitMQ.ProducerVsConsumer\obj\Debug\net8.0\RabbitMQ.ProducerVsConsumer.csproj.CoreCompileInputs.cache
+E:\ASPNETCOREAPPS\RabbitMQ\RabbitMQ.ProducerVsConsumer\obj\Debug\net8.0\RabbitMQ.96430CE5.Up2Date
+E:\ASPNETCOREAPPS\RabbitMQ\RabbitMQ.ProducerVsConsumer\obj\Debug\net8.0\RabbitMQ.ProducerVsConsumer.dll
+E:\ASPNETCOREAPPS\RabbitMQ\RabbitMQ.ProducerVsConsumer\obj\Debug\net8.0\refint\RabbitMQ.ProducerVsConsumer.dll
+E:\ASPNETCOREAPPS\RabbitMQ\RabbitMQ.ProducerVsConsumer\obj\Debug\net8.0\RabbitMQ.ProducerVsConsumer.pdb
+E:\ASPNETCOREAPPS\RabbitMQ\RabbitMQ.ProducerVsConsumer\obj\Debug\net8.0\RabbitMQ.ProducerVsConsumer.genruntimeconfig.cache
+E:\ASPNETCOREAPPS\RabbitMQ\RabbitMQ.ProducerVsConsumer\obj\Debug\net8.0\ref\RabbitMQ.ProducerVsConsumer.dll

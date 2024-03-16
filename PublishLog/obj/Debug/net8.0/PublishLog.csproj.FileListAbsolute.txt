@@ -1,0 +1,17 @@
+E:\ASPNETCOREAPPS\RabbitMQ\PublishLog\bin\Debug\net8.0\PublishLog.exe
+E:\ASPNETCOREAPPS\RabbitMQ\PublishLog\bin\Debug\net8.0\PublishLog.deps.json
+E:\ASPNETCOREAPPS\RabbitMQ\PublishLog\bin\Debug\net8.0\PublishLog.runtimeconfig.json
+E:\ASPNETCOREAPPS\RabbitMQ\PublishLog\bin\Debug\net8.0\PublishLog.dll
+E:\ASPNETCOREAPPS\RabbitMQ\PublishLog\bin\Debug\net8.0\PublishLog.pdb
+E:\ASPNETCOREAPPS\RabbitMQ\PublishLog\bin\Debug\net8.0\RabbitMQ.Client.dll
+E:\ASPNETCOREAPPS\RabbitMQ\PublishLog\obj\Debug\net8.0\PublishLog.csproj.AssemblyReference.cache
+E:\ASPNETCOREAPPS\RabbitMQ\PublishLog\obj\Debug\net8.0\PublishLog.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASPNETCOREAPPS\RabbitMQ\PublishLog\obj\Debug\net8.0\PublishLog.AssemblyInfoInputs.cache
+E:\ASPNETCOREAPPS\RabbitMQ\PublishLog\obj\Debug\net8.0\PublishLog.AssemblyInfo.cs
+E:\ASPNETCOREAPPS\RabbitMQ\PublishLog\obj\Debug\net8.0\PublishLog.csproj.CoreCompileInputs.cache
+E:\ASPNETCOREAPPS\RabbitMQ\PublishLog\obj\Debug\net8.0\PublishLog.csproj.Up2Date
+E:\ASPNETCOREAPPS\RabbitMQ\PublishLog\obj\Debug\net8.0\PublishLog.dll
+E:\ASPNETCOREAPPS\RabbitMQ\PublishLog\obj\Debug\net8.0\refint\PublishLog.dll
+E:\ASPNETCOREAPPS\RabbitMQ\PublishLog\obj\Debug\net8.0\PublishLog.pdb
+E:\ASPNETCOREAPPS\RabbitMQ\PublishLog\obj\Debug\net8.0\PublishLog.genruntimeconfig.cache
+E:\ASPNETCOREAPPS\RabbitMQ\PublishLog\obj\Debug\net8.0\ref\PublishLog.dll

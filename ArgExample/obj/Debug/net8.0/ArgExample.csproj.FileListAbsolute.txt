@@ -1,0 +1,14 @@
+E:\ASPNETCOREAPPS\RabbitMQ\ArgExample\bin\Debug\net8.0\ArgExample.exe
+E:\ASPNETCOREAPPS\RabbitMQ\ArgExample\bin\Debug\net8.0\ArgExample.deps.json
+E:\ASPNETCOREAPPS\RabbitMQ\ArgExample\bin\Debug\net8.0\ArgExample.runtimeconfig.json
+E:\ASPNETCOREAPPS\RabbitMQ\ArgExample\bin\Debug\net8.0\ArgExample.dll
+E:\ASPNETCOREAPPS\RabbitMQ\ArgExample\bin\Debug\net8.0\ArgExample.pdb
+E:\ASPNETCOREAPPS\RabbitMQ\ArgExample\obj\Debug\net8.0\ArgExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASPNETCOREAPPS\RabbitMQ\ArgExample\obj\Debug\net8.0\ArgExample.AssemblyInfoInputs.cache
+E:\ASPNETCOREAPPS\RabbitMQ\ArgExample\obj\Debug\net8.0\ArgExample.AssemblyInfo.cs
+E:\ASPNETCOREAPPS\RabbitMQ\ArgExample\obj\Debug\net8.0\ArgExample.csproj.CoreCompileInputs.cache
+E:\ASPNETCOREAPPS\RabbitMQ\ArgExample\obj\Debug\net8.0\ArgExample.dll
+E:\ASPNETCOREAPPS\RabbitMQ\ArgExample\obj\Debug\net8.0\refint\ArgExample.dll
+E:\ASPNETCOREAPPS\RabbitMQ\ArgExample\obj\Debug\net8.0\ArgExample.pdb
+E:\ASPNETCOREAPPS\RabbitMQ\ArgExample\obj\Debug\net8.0\ArgExample.genruntimeconfig.cache
+E:\ASPNETCOREAPPS\RabbitMQ\ArgExample\obj\Debug\net8.0\ref\ArgExample.dll

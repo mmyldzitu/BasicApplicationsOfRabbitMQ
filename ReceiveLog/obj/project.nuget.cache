@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "cZKpsrk5DfoN+bLque6dyft1gXcztyzENkFZyRkJEb+WT6ic4+i5Bo/k7ykhogu1kNuTk4p6tKjz15cx473sug==",
+  "success": true,
+  "projectFilePath": "E:\\ASPNETCOREAPPS\\RabbitMQ\\ReceiveLog\\ReceiveLog.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Muhammed YILDIZ\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
+    "C:\\Users\\Muhammed YILDIZ\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Muhammed YILDIZ\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
